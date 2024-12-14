@@ -1,0 +1,4 @@
+﻿  infinitive_numbers.cpp
+D:\MyProjects\infinitive_numbers\infinitive_numbers\infinitive_numbers.cpp(15,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\MyProjects\infinitive_numbers\infinitive_numbers\infinitive_numbers.cpp(47,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  infinitive_numbers.vcxproj -> D:\MyProjects\infinitive_numbers\x64\Debug\infinitive_numbers.exe

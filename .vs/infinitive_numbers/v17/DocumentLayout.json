@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyProjects\\infinitive_numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D029B90-12BD-41CE-9946-162B92073634}|infinitive_numbers\\infinitive_numbers.vcxproj|D:\\MyProjects\\infinitive_numbers\\infinitive_numbers\\infinitive_numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D029B90-12BD-41CE-9946-162B92073634}|infinitive_numbers\\infinitive_numbers.vcxproj|solutionrelative:infinitive_numbers\\infinitive_numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProjects\\infinitive_numbers\\infinitive_numbers\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infinitive_numbers\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProjects\\infinitive_numbers\\infinitive_numbers\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infinitive_numbers\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1564,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "infinitive_numbers.cpp",
+              "DocumentMoniker": "D:\\MyProjects\\infinitive_numbers\\infinitive_numbers\\infinitive_numbers.cpp",
+              "RelativeDocumentMoniker": "infinitive_numbers\\infinitive_numbers.cpp",
+              "ToolTip": "D:\\MyProjects\\infinitive_numbers\\infinitive_numbers\\infinitive_numbers.cpp",
+              "RelativeToolTip": "infinitive_numbers\\infinitive_numbers.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T13:15:20.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 294,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.txt",
+              "DocumentMoniker": "D:\\MyProjects\\infinitive_numbers\\infinitive_numbers\\input.txt",
+              "RelativeDocumentMoniker": "infinitive_numbers\\input.txt",
+              "ToolTip": "D:\\MyProjects\\infinitive_numbers\\infinitive_numbers\\input.txt",
+              "RelativeToolTip": "infinitive_numbers\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-10T13:25:23.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 571,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "output.txt",
+              "DocumentMoniker": "D:\\MyProjects\\infinitive_numbers\\infinitive_numbers\\output.txt",
+              "RelativeDocumentMoniker": "infinitive_numbers\\output.txt",
+              "ToolTip": "D:\\MyProjects\\infinitive_numbers\\infinitive_numbers\\output.txt",
+              "RelativeToolTip": "infinitive_numbers\\output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-10T13:25:58.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
